@@ -5,7 +5,7 @@
 		/* backgrounds */			
 		#item1 {background: #98392b url() no-repeat 0 0; background-size:contain;}
 		#item2 {background: #F48B25 url() no-repeat 0 0; background-size:contain; color: white;}
-		#item3 {background: #01165f url() no-repeat 0 0; background-size:contain; color: white;}
+		#item3 {background: white url() no-repeat 0 0; background-size:contain; color: white;}
 		#item4 {background: #fff url() no-repeat right 0; background-size:contain;}
 		#item5 {background: #fff url() no-repeat 0 0; background-size:contain;}
 		#item6 {background: #02249f url() no-repeat 0 0; background-size:contain; color: white;}
@@ -60,9 +60,9 @@
 	
 		#item1	.layout a.next-page {color: #4A2B28; background: white;
 			font-family:"monospace";}
-		#item2	.layout a.next-page {color: black; background: transparent;
+		#item2	.layout a.next-page {color: black; background: white;
 			font-family:"monospace"}
-		#item3	.layout a.next-page {color: white; background: transparent;
+		#item3	.layout a.next-page {color: white; background: black;
 			font-family:"monospace"}
 		#item4	.layout a.next-page {color: black; background: white;
 			font-family:"monospace"}
